@@ -1,0 +1,1 @@
+python main.py --model_name GemSUra --dataset_name abt_buy --fewshot_prompting False --smoke_test True --tgi https://ws.gvlab.org/fablab/ura/llama/api/generate --fewshot
